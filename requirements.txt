@@ -1,0 +1,5 @@
+PyQt6>=6.6.0
+SQLAlchemy>=2.0.0
+matplotlib>=3.8.0
+plyer>=2.1.0
+PyInstaller>=6.0.0
